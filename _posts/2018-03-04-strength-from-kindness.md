@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-03-04 10:20:43
 ---
-<i>Photo by Jay Gross</i>
+&nbsp;
 
 From Jay Gross:
 
