@@ -13,7 +13,7 @@ post_date: 2018-03-04 09:24:14
 
 Anyone have a rough day Friday?
 
-I bet a few did...
+I bet a few did...<!--more-->
 
 Another tragic event we were forced to endure so very, very close to home...
 
