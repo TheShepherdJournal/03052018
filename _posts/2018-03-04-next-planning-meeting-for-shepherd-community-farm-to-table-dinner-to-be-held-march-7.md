@@ -12,8 +12,6 @@ permalink: >
 published: true
 post_date: 2018-03-04 17:32:25
 ---
-&nbsp;
-
 The Shepherd Community Farm to Table Dinner Committee will be meeting inside the Shepherd United Methodist Church on March 7 starting at 7 p.m. All are welcome.
 
 #
