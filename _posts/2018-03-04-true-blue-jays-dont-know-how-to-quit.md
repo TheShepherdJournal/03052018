@@ -1,6 +1,6 @@
 ---
 ID: 1293
-post_title: 'True Blue Jays Don&#8217;t know how to Quit'
+post_title: 'Blue Jays Don&#8217;t know how to Quit'
 author: Jon
 post_excerpt: ""
 layout: post
