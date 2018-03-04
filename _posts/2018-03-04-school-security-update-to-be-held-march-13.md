@@ -13,7 +13,7 @@ post_date: 2018-03-04 18:06:50
 ---
 &nbsp;
 
-The Shepherd Public Schools will be hosting a Community School Safety Update on Tuesday, March 13, 2018 inside the Shepherd High School Auditorium starting at 7 p.m. According to an announcement posted on Facebook, “Shepherd Public Schools and the Shepherd Police Department would like to update the community on school safety. The update will be followed up by a question and answer session.”
+The Shepherd Public Schools will be hosting a Community School Safety Update on Tuesday, March 13, 2018 inside the Shepherd High School Auditorium starting at 7 p.m. According to an announcement posted on Facebook, “Shepherd Public Schools and the Shepherd Police Department would like to update the community on school safety. The update will be followed up by a question and answer session.”<!--more-->
 
 Here is also a reminder on the SPS security measures and standard security modes, according to a separate post shared by the Shepherd Elementary School Facebook page:
 <ul>
