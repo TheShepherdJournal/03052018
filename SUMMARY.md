@@ -9,6 +9,12 @@
 * [Parade to honor 60th Shepherd Maple Syrup Festival](_posts/2018-02-04-parade-to-honor-shepherd-maple-syrup-festivals-60th-anniversary.md)
 * [School Security Update Meeting to be held March 13](_posts/2018-03-04-school-security-update-to-be-held-march-13.md)
 
+## Website Resources
+* [Community Calendar](http://shepherdjournal.shepherdmaplesyrupfestival.com/events)
+* [Classifieds](http://shepherdjournal.shepherdmaplesyrupfestival.com/another-wordpress-classifieds-plugin/browse-ads)
+* [Questions & Answers Forum](http://shepherdjournal.shepherdmaplesyrupfestival.com/questions)
+* [Business Directory](http://shepherdjournal.shepherdmaplesyrupfestival.com/business)
+
 ## Contact The Shepherd Journal
 * [Submit a Story or News Tip](http://shepherdjournal.shepherdmaplesyrupfestival.com/submit-a-story)
 
