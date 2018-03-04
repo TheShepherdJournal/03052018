@@ -17,6 +17,7 @@
 
 ## Contact The Shepherd Journal
 * [Submit a Story or News Tip](http://shepherdjournal.shepherdmaplesyrupfestival.com/submit-a-story)
+* [Send Email](mailto:editor@shepherdhistory.org)
 
 
 
