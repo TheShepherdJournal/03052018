@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-03-04 10:20:43
 ---
-<img title="" src="http://shepherdjournal.shepherdmaplesyrupfestival.com/wp-content/uploads/2018/03/null-1.png" alt="" width="624" height="832" />
+&nbsp;
 
 <i>Photo by Jay Gross</i>
 
