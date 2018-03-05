@@ -1,5 +1,7 @@
 # Summary
 
+* [Download this Issue](http://shepherdjournal.shepherdmaplesyrupfestival.com/book/the-shepherd-journal-march-5-2018)
+
 ## This Week
 
 * [Introduction](README.md)
