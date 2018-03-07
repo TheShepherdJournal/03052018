@@ -2,9 +2,11 @@
 
 * [Download this Issue](http://shepherdjournal.shepherdmaplesyrupfestival.com/book/the-shepherd-journal-march-5-2018)
 
+* [Cover](README.md)
+
 ## New
 
-* [Introduction](README.md)
+* [Community Remembers long time resident Rose Cohoon](_posts/2018-03-06-community-remembers-long-time-resident-rose-cohoon.md)
 * [Blue Jays don't know how to Quit](_posts/2018-03-04-true-blue-jays-dont-know-how-to-quit.md)
 * [Strength from Kindness](_posts/2018-03-04-strength-from-kindness.md)
 * [School Security Update Meeting to be held March 13](_posts/2018-03-04-school-security-update-to-be-held-march-13.md)
