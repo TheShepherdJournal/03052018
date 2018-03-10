@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2018-03-10 17:53:22
 ---
-&nbsp;
-
 It’s Maple Syrup Time in Shepherd, Michigan! Once again Joyce and Phil Leonard want to invite you to the Community Dance, held on Saturday, April 28 inside the St. Vincent DePaul Parish Hall, at 205 E. Maple Street, from 7:30 p.m. to 10 p.m. as a part of the Shepherd Maple Syrup Festival.
 
 Joyce, Michigan’s Yodeling Sweetheart, and Phil’s Tumbleweed Band will bring you the best in traditional country, western, gospel, patriotic, and yodel music for your listening and dancing pleasure. Line dancers are welcome. Come out and enjoy this “Community Reunion” with friends and family. The Tumbleweed Band includes Phil and Joyce Leonard from St. Louis (Shepherd graduates), Jerry Mawhorter from Gladwin, Elmer Otto from Riverdale, and Bill Bryant (Shepherd graduate) from Shepherd.<!--more-->
