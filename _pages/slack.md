@@ -12,5 +12,5 @@ post_date: 2018-03-25 11:39:03
 The Shepherd Journal hosts a Slack community where community members can get together to collaborate on stories about issues or events taking place in and around the Village of Shepherd. Membership is open to anybody who is interested in contributing.
 <ul>
  	<li><a href="http://shepherdonline.slack.com">Log into Slack</a></li>
- 	<li><a href="http://www.9and10news.com/2018/03/24/mount-pleasant-joins-national-march-lives-movement-hundreds/">Join the Slack Community</a></li>
+ 	<li><a href="https://join.slack.com/t/shepherdonline/shared_invite/enQtMzM1MDM2NDcxMjAwLTUwNGEwZWUyOTY4MzUxYTllZmQ1MDdlM2Y4NTg5ODk0YjgwNThkMTk1NzM0MmM5Yjg0MmFmM2JkOTE5M2MyZWU">Join the Slack Community</a></li>
 </ul>
