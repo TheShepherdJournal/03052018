@@ -13,18 +13,18 @@ post_date: 2018-04-14 13:30:41
 ---
 [tabby title="Assignment"]
 
-Tabby ipsum dolor sit amet, kitty sunbathe dolor, feed me.
+[ic_add_posts post_type='assignment']
 
 [tabby title="Updates"]
 
-Lay down in your way catnip stuck in a tree, sunbathe kittens.
+[ic_add_posts post_type='update']
 
 [tabby title="Submissions"]
 
-sleep in the sink climb the curtains attack, give me fish.
+[ic_add_posts post_type='submissions']
 
 [tabby title="Resources"]
-
-sleep in the sink climb the curtains attack, give me fish.
-
+<ul>
+ 	<li>Placeholder</li>
+</ul>
 [tabbyending]
