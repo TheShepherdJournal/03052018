@@ -15,6 +15,8 @@ Parade Chairman Clif Lehner would like to feature all past festival queens, prin
 
 The assignment is to get in contact with as many former festival queens, princesses, and court members as possible. Tools being used include a google form, a spreadsheet, and social media.
 
+<!--more-->
+
 [tabby title="Submit"]
 
 [wpuf_form id="1426"]
