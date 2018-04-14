@@ -11,15 +11,19 @@ permalink: >
 published: true
 post_date: 2018-04-14 13:30:41
 ---
-[tabby title="First Tab"]
+[tabby title="Assignment"]
 
 Tabby ipsum dolor sit amet, kitty sunbathe dolor, feed me.
 
-[tabby title="Second Tab"]
+[tabby title="Updates"]
 
 Lay down in your way catnip stuck in a tree, sunbathe kittens.
 
-[tabby title="Third Tab"]
+[tabby title="Submissions"]
+
+sleep in the sink climb the curtains attack, give me fish.
+
+[tabby title="Resources"]
 
 sleep in the sink climb the curtains attack, give me fish.
 
