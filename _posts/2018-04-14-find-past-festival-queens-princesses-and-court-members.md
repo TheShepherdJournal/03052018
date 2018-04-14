@@ -17,7 +17,7 @@ The assignment is to get in contact with as many former festival queens, princes
 
 [tabby title="Submit"]
 
-[wpuf_form id="101"]
+[wpuf_form id="960"]
 
 [tabby title="Updates"]
 
