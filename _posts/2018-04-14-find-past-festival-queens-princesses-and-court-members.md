@@ -13,6 +13,10 @@ post_date: 2018-04-14 13:30:41
 ---
 [tabby title="Assignment"]
 
+Parade Chairman Clif Lehner would like to feature all past festival queens, princesses, and court members in this year's parade to honor the 60th anniversary of the Shepherd Maple Syrup Festival.
+
+The assignment is to get in contact with as many former festival queens, princesses, and court members as possible. Tools being used include a google form, a spreadsheet, and social media.
+
 [ic_add_posts post_type='assignment']
 
 [tabby title="Updates"]
