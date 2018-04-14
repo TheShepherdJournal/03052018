@@ -17,11 +17,11 @@ The assignment is to get in contact with as many former festival queens, princes
 
 [tabby title="Updates"]
 
-[ic_add_posts post_type='update']
+[ic_add_posts tag='update'  category='QueensPrincessesCourt']
 
 [tabby title="Submissions"]
 
-[ic_add_posts post_type='submissions']
+[ic_add_posts tag='submissions'  category='QueensPrincessesCourt']
 
 [tabby title="Resources"]
 <ul>
