@@ -9,7 +9,6 @@ permalink: >
 published: true
 post_date: 2018-05-12 11:55:41
 ---
-<h2></h2>
 <h2>SMS Teachers honored by human tunnel formed by students</h2>
 <h3>The Gist</h3>
 The Shepherd Middle School Facebook posted a video of teachers walking through a gauntlet of students organized by the SMS student council which showed “love and respect” for SMS teachers.
