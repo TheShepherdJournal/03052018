@@ -11,7 +11,7 @@ post_date: 2018-05-12 13:17:38
 ---
 [tabby title="Stories"]
 
-[ic_add_posts category='TSJ-May2018']
+[pt_view id="25edd41ac1"]
 
 [tabby title="Links"]
 
